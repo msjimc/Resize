@@ -35,5 +35,5 @@ The compiled program can be downloaded from [here](program/).
 
 ## Running on macOS, Linux or BSD computers
 
-```Resize``` can run on arrange of non-Windows PCs as described [here](Running_Linux_and_macOS/README.md).
+```Resize``` can run on arrange of non-Windows PCs as described [here](https://github.com/msjimc/RunningWindowsProgramsOnLinux).
 
