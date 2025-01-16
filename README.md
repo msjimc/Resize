@@ -1,5 +1,7 @@
 #  ```Resize```
 
+<img align="right" src="images/intro.jpg">
+
 #### Contents
 - [Introduction](#Introduction)
 - [Instructions](#instructions)
@@ -7,8 +9,6 @@
 - [Running on macOS, Linux and BSD PCs](#running-on-macos-linux-or-bsd-computers)
 
 ## Introduction
-
-<img align="right" src="images/intro.jpg">
 
 ```Resize``` is designed to increase the DPI resolution of images so that they meet the minimum resolution that a journal will accept. While it is possible to do this with many graphic programs, this program makes the task very easy. It does not use anti aliasing when expanding the resolution and so does not make the image fuzzy
 
