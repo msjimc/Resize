@@ -69,7 +69,7 @@ Public Class Form1
 
             MsgBox("Done", MsgBoxStyle.Information, "Done")
         Catch ex As Exception
-            MsgBox("An error occured", MsgBoxStyle.Information, "Error")
+            MsgBox("An error occurred", MsgBoxStyle.Information, "Error")
         End Try
 
     End Sub
